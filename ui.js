@@ -9,7 +9,7 @@ class UI {
         <div class="row">
           <div class="col-md-3">
             <img class="img-fluid mb-2" src="${user.avatar_url}">
-            <a href="${user.html_url} target="_blank" class="btn btn-primary block mb-4">View Profile</a>
+            <a href="${user.html_url}" target="_blank" class="btn btn-primary block mb-4">View Profile</a>
           </div>
 
           <div class="col-md-9">
